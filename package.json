@@ -1,0 +1,22 @@
+{
+  "name": "dctoken",
+  "version": "1.0.0",
+  "description": "this plugin gives you access to Device Check token and token data.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "devicecheck",
+    "devicecheck",
+    "token",
+    "device",
+    "check",
+    "token",
+    "data",
+    "ios",
+    "swift"
+  ],
+  "author": "Kaaryaa Labs",
+  "license": "ISC"
+}
