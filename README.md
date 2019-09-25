@@ -12,6 +12,7 @@ You can then import it in any class by declaring DcToken
         declare var DcToken;
 
 Then you can use it by calling follwin methods
+
         DcToken.getDcToken(successCallback, errorCallback); returns token data converted to base64String in success callback
         DcToken.getDcTokenData(successCallback, errorCallback); returns token data in success callback
 
